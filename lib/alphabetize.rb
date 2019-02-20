@@ -6,4 +6,3 @@ def alphabetize(sentence_array)
     end
   end
 end
-
